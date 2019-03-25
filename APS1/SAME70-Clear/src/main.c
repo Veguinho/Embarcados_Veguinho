@@ -160,7 +160,7 @@ char notesJingle[] = {NOTE_E4, NOTE_E4, NOTE_E4, NOTE_E4, NOTE_E4, NOTE_E4, NOTE
 	 
 int durationJingle[] = {125, 125, 250, 125, 125, 250, 125, 125, 125, 125, 250, 125, 125, 125, 125, 125, 125, 125, 125, 125, 125, 125, 125, 125, 250, 250};
 	
-	
+
 //Musica retirada de: https://github.com/xitangg/-Pirates-of-the-Caribbean-Theme-Song/blob/master/Pirates_of_the_Caribbean_-_Theme_Song.ino
 int notesPirates[] = {       //Note of the song, 0 is a rest/pulse
    NOTE_E4, NOTE_G4, NOTE_A4, NOTE_A4, 0, 
